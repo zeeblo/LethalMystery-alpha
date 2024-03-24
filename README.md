@@ -1,7 +1,8 @@
 # Gameplay
 https://youtu.be/6Ui0rqmn6CA
 
-Note: I removed the Skeld map and Among Us sound effects since those are directly under their IP 
+Note: I removed the Skeld map and Among Us sound effects since those are directly under their IP.
+Furthermore this will not be kept updated, once v50 of Lethal Company is released, it is possible the mod will stop working.
 
 # Start
 
