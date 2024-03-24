@@ -10,12 +10,22 @@ If you don't have BepInEx then follow this tutorial https://www.youtube.com/watc
 
 ## Now that you have BepInEx
 
-- Click on the Releases section
-- Download the zip
-- Go to your plugins folder
+### Click on the Releases section
+
+<img src=".\Assets\releases.png" alt="release screenshot 1">
+
+### Download the zip
+
+<img src=".\Assets\releases2.png" alt="release screenshot 2">
+
+### Go to your plugins folder
+
+<img src=".\Assets\extractHere.png" alt="extractHere">
+
 - Unpack the zip
 - Run Lethal Company
 - You're set!
+
 
 
 # **IMPORTANT**
