@@ -1,6 +1,7 @@
 # Gameplay
 https://youtu.be/6Ui0rqmn6CA
 
+Note: I removed the Skeld map and Among Us sound effects since those are directly under their IP 
 
 # Start
 
