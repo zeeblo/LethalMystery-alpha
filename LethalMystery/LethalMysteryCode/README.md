@@ -1,1 +1,0 @@
-This folder isn't necessary and can be deleted. It's here for convenience so more people can see behind the scenes of the DLL without having to use something like ilspy or dnspy.
