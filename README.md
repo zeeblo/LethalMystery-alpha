@@ -97,3 +97,17 @@ regular shovel which will still 1 tap anyone (only if ur imposter)
 Once the ship is in space, remember to type "eject" in the terminal. It will prompt
 you with a message asking you if you want to continue, type "c".
 This will flush the ship of previous items
+
+## How many tasks are there?
+By default the crew has to bring back 13 items to the ship to win the game.
+
+The host can edit this in the terminal by typing `edit_tasks (num)` eg. `edit_tasks 80` will make it so that people have to bring back **8** scraps in total.
+
+
+
+## The game ended but the ship isnt taking off
+If the host is still alive then they can go on the terminal and press `stop` in the terminal.
+
+If the host is dead then they need to press `numpad3` on their keyboard (once).
+
+
