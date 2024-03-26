@@ -110,4 +110,8 @@ If the host is still alive then they can go on the terminal and press `stop` in 
 
 If the host is dead then they need to press `numpad3` on their keyboard (once).
 
+## How do we get 2 imposters?
+This is only recommended if you have 7+ people. You should also only use this on the `normal` gamemode.
+
+type `edit_imps 2` **before** u start the game and there will be 2 imposters.
 
